@@ -7,9 +7,9 @@
         <br />
 
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LeomaiaJr&show_icons=true"
+        <img src="https://github-readme-stats.vercel.app/api?username=LeomaiaJr&show_icons=true&theme=tokyonight"
                 alt="LeomaiaJr Github Stats"></img>&nbsp; &nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeomaiaJr&layout=compact&hide=hlsl,shaderlab"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeomaiaJr&layout=compact&hide=hlsl,shaderlab&theme=tokyonight"
                 alt="LeomaiaJr Top Languages" />
     </p>
 </p>
@@ -24,8 +24,6 @@
 - 💬 &nbsp; Feel free to contact me, I am happy to hear from you;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/leonardo-maia-j%C3%BAnior-006998177/);
 - 📚 &nbsp; When I am free, I learn new things and try to improve my skills;
-
-<br />
 
 ### 💻 Languages:
 
