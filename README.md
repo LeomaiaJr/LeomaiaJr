@@ -105,7 +105,7 @@
                 <img src="https://img.shields.io/badge/-@__leomaiajr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_leomaiajr"
                         alt="Leo's Instagram"></img>
         </a>&nbsp;
-        <a href="mailto:leozinhomaiajr@gmail.com">
+        <a href="mailto:me@leomaiajr.dev">
                 <img src="https://img.shields.io/badge/-leomaiajr.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@leomaiajr.dev"
                         alt="Leo's Email"></img>
         </a>&nbsp;
