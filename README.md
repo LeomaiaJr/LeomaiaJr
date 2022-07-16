@@ -106,7 +106,7 @@
                         alt="Leo's Instagram"></img>
         </a>&nbsp;
         <a href="mailto:leozinhomaiajr@gmail.com">
-                <img src="https://img.shields.io/badge/-leozinhomaiajr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leozinhomaiajr@gmail.com"
-                        alt="Leo's Gmail"></img>
+                <img src="https://img.shields.io/badge/-leomaiajr.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me@leomaiajr.dev"
+                        alt="Leo's Email"></img>
         </a>&nbsp;
 </p>
