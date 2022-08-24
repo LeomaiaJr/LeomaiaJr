@@ -2,7 +2,7 @@
 
 <p align="center">
         I'm Leonardo Maia Jr. Developer, Software Engineer Student and always willing to learn. I am currently
-        working as a Full Stack Developer at <a href="http://www.pdsolucoes.com.br">PD Soluções</a>.
+        working as a Developer at <a href="https://www.tech4h.com.br/">Tech4H</a>.
         <br />
         <br />
 
